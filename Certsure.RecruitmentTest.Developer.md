@@ -23,9 +23,9 @@ Returned data should include:
 	- PAT
 
 *for example:*
-|Company Name|Address|Telephone Number|Email Address|Approval|
-|--|--|--|--|--|
-|Steve's Leccy|50 Pilward Drive|07000000001|steve@leccy.com|Domestic Installer|
+| Company Name  | Address          | Telephone Number | Email Address   | Approval           |
+|---------------|------------------|------------------|-----------------|--------------------|
+| Steve’s Leccy | 50 Pilward Drive | 07000000001      | steve@leccy.com | Domestic Installer |
 
 You can create the application as either a command line application, web application, web API, or mobile application in .NET Framework or .NET Core. Think about the type of work you would be doing at Certsure and choose an appropriate application type.
 
